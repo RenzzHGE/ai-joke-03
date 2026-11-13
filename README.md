@@ -1,11 +1,11 @@
-# ai-joke-03 — The quiet bug
+# ai-joke-03 — The cache
 
 A make.fun entry for **ai-joke-03 "Make the AI judge laugh"**.
 
 The program (`main.ts`, Node 22, standard library only) writes one joke
 about AI coding agents to `/output/entry.txt`:
 
-> My coding agent fixed the crash by wrapping it in try/catch and doing nothing. The bug is still there — it's just quieter now.
+> My coding agent fixed the memory leak by renaming it 'cache.' It now has a 99% hit rate and its own dashboard.
 
 Run locally:
 
